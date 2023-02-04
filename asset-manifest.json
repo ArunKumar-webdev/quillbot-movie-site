@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/quillbot-movie-site/static/css/main.1cf39d40.css",
+    "main.js": "/quillbot-movie-site/static/js/main.ecc4dd08.js",
+    "static/js/787.7c42db31.chunk.js": "/quillbot-movie-site/static/js/787.7c42db31.chunk.js",
+    "static/media/OpenSans-SemiBold.ttf": "/quillbot-movie-site/static/media/OpenSans-SemiBold.2f17aae884058c5a85df.ttf",
+    "static/media/userProfile.svg": "/quillbot-movie-site/static/media/userProfile.91bdc7c1a4377aa8a2958dddb8539cc7.svg",
+    "index.html": "/quillbot-movie-site/index.html",
+    "main.1cf39d40.css.map": "/quillbot-movie-site/static/css/main.1cf39d40.css.map",
+    "main.ecc4dd08.js.map": "/quillbot-movie-site/static/js/main.ecc4dd08.js.map",
+    "787.7c42db31.chunk.js.map": "/quillbot-movie-site/static/js/787.7c42db31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cf39d40.css",
+    "static/js/main.ecc4dd08.js"
+  ]
+}
